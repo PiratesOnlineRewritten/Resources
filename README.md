@@ -1,2 +1,2 @@
-# Pirates Online Revolution Resources.
-This repository contains all the resource phase files for Pirates Online Revolution.
+# Pirates Online Rewritten Resources.
+This repository contains all the resource phase files for Pirates Online Rewritten.
