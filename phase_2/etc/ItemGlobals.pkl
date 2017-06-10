@@ -22562,7 +22562,7 @@ aI0
 aI1
 aVpir_t_ico_gun_multiBarrel_d
 p2250
-aVA Heavy Tri-Barrel Pistol, a fine piece of weaponry. 
+aVA Heavy Tri-Barrel Pistol, a fine piece of weaponry.
 p2251
 aI12
 aI0
@@ -45371,7 +45371,7 @@ aI3
 aI2371
 aI13
 aI0
-aclibpanda
+acpanda3d.core
 Vec3
 p4421
 (F0
@@ -49913,7 +49913,7 @@ aI0
 aI1
 aVpir_t_ico_knf_hollow_b
 p4862
-aVA Coltello dagger, it is a pirate's best friend in the right fight. 
+aVA Coltello dagger, it is a pirate's best friend in the right fight.
 p4863
 aI15
 aI0
