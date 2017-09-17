@@ -1,1 +1,4 @@
 *.mf
+
+# Download phase
+phase_nondownload/
