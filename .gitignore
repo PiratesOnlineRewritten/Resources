@@ -1,4 +1,6 @@
 *.mf
+*.egg
+*.py
 
 # Download phase
 phase_nondownload/
